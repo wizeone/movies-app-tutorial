@@ -10,7 +10,7 @@ This is the product of following [this](https://medium.com/swlh/how-to-create-yo
 
 ## Thoughts
 
-Overall, this was a great turotial. It covered all of the basics that I needed. After going through this tutorial, I feel better about my ability to now create a custom, but simple, MERN application that supports CRUD operations.
+Overall, this was a great tutorial. It covered all of the basics that I needed. After going through this tutorial, I feel better about my ability to now create a custom, but simple, MERN application that supports CRUD operations.
 
 One downside to this tutorial was the fact that the React code is quite out of a date and required a bit of debugging and modification to get working. Some issues I had were...
 1. Using Routes instead of Switch
