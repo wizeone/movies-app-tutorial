@@ -15,4 +15,4 @@ Overall, this was a great tutorial. It covered all of the basics that I needed. 
 One downside to this tutorial was the fact that the React code is quite out of a date and required a bit of debugging and modification to get working. Some issues I had were...
 1. Using Routes instead of Switch
 2. Route syntax had changed and my components weren't being rendered, took a while to figure out the issue. The use of the `element` prop fixed the issue.
-3. React Table seems to have changed quite a bit since this tutorial was written. I decided to forego that piece and just have a simple list of movies printed out.
+3. React Table seems to have changed quite a bit since this tutorial was written. I decided to forgo that piece and just have a simple list of movies printed out.
